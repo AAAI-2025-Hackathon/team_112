@@ -1,7 +1,6 @@
-- Project Plan: **[AI-Driven ESG Investment Advisor]**
 - Hackathon Theme: **[AI in Finance]**
 - Goal: Develop an AI-driven platform that evaluates companies' Environmental, Social, and Governance (ESG) performance using financial reports, news articles, and social media data. The platform will generate ESG scores and provide investment recommendations.
-
+  
 - Title of your submission: **[AI-Driven ESG Investment Advisor]**
 - Team Members: [Rajdeep Mazumder](mailto:mazumder.rajdeep@gmail.com), [Joydeep Ghatak](mailto:joycode17@gmail.com)
 - [x] All team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
