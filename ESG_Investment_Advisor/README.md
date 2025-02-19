@@ -1,0 +1,9 @@
+- data/	Stores ESG datasets, financial reports, and news data.
+- models/	Contains trained AI models (e.g., ESG Sentiment Model, ESG Score Model).
+- notebooks/	Jupyter notebooks for individual tasks (data collection, training, evaluation).
+- src/	Python scripts for loading data, processing text, computing ESG scores.
+- api/	Flask/FastAPI code to serve ESG predictions as an API (optional).
+- static/	Stores frontend assets (if you decide to build a UI).
+- templates/	Contains HTML files for Flask-based UI (optional).
+- requirements.txt	Lists all required Python libraries for easy installation.
+- README.md	Documents your project setup, purpose, and usage.
