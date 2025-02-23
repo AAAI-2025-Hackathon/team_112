@@ -1,13 +1,22 @@
+# AI-Driven ESG Investment Advisor
+
+An innovative platform designed to evaluate companies' Environmental, Social, and Governance (ESG) performance by aggregating data from financial reports, news articles, and social media. Leveraging Yahoo Finance’s sustainability API, this project generates composite ESG scores and provides actionable investment recommendations—perfectly aligned with the hackathon theme: **AI in Finance**.
+
+---
+
+## Directory Structure
+
+```plaintext
 ESG_Investment_Advisor/
-│── data/                     # Store fetched ESG datasets
-│   ├── real_time_esg_data.csv # Saved ESG data from Alpha Vantage
-│── notebooks/                 # Jupyter Notebooks for each module
+├── data/                     
+│   └── real_time_esg_data.csv  # Saved ESG data from Alpha Vantage
+├── notebooks/                 
 │   ├── 1_fetch_esg_data.ipynb
-│   ├── 2_visualize_esg_data.ipynb
-│── api/                       # ESG API (optional)
-│   ├── app.py
-│── README.md                  # Project documentation
-│── requirements.txt            # Python dependencies
+│   └── 2_visualize_esg_data.ipynb
+├── api/                       
+│   └── app.py                  # ESG API (optional)
+├── README.md                   # Project documentation
+└── requirements.txt            # Python dependencies
 
 
 
