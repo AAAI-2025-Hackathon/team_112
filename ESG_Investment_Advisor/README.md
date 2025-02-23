@@ -19,7 +19,6 @@ ESG_Investment_Advisor/
 └── requirements.txt            # Python dependencies
 
 
-
 Project Plan: AI-Driven ESG Investment Advisor
 Hackathon Theme:
 AI in Finance
