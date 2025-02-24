@@ -13,7 +13,7 @@ An innovative platform designed to evaluate companies' Environmental, Social, an
 - [x] The entry includes a 2-minute maximum length demo video here: [Link](https://your-link.com)
 - [x] The entry clearly identifies the selected theme in the README and the video.
 
-# Goal 
+## Goal ##
 
 Develop an AI-driven platform that evaluates companies' Environmental, Social, and Governance (ESG) performance using data from financial reports, news articles, and social media. The platform will aggregate data—leveraging Yahoo Finance’s sustainability API—to generate ESG scores and provide actionable investment recommendations for sustainable investing.
 
@@ -71,11 +71,9 @@ This project leverages Yahoo Finance’s sustainability data via the yfinance AP
 - Iterate on the solution by integrating sentiment analysis and financial risk metrics for a comprehensive AI-driven investment recommendation platform.
 - This solution not only meets the hackathon theme of AI in Finance but also addresses the growing demand for sustainable, data-driven investment strategies. - - The iterative enhancements ensure that the project can evolve into a robust, full-fledged platform.
 
-# To Run the Hack :
+## To Run the Hack : ***fetch_esg_data_using_yfinance.ipynb***  
 
-fetch_esg_data_using_yfinance.ipynb
-
-# Directory Structure/Implementation Plan
+## Directory Structure/Implementation Plan
 
 ```plaintext
 ESG_Investment_Advisor/
